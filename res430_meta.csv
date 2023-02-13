@@ -1,0 +1,432 @@
+,disease,GSE,Tissue
+1,Abdominal Aortic Aneurysm,GSE57691,Abdominal aorta
+2,Abdominal Aortic Aneurysm,GSE7084,Abdominal aorta
+3,Acne,GSE6475,Skin tissue
+4,Acquired Immune Deficiency Syndrome,GSE4785,T cells
+5,Acromegaly,GSE6351,Peripheral blood
+6,Actinic Keratosis,GSE2503,Skin tissue
+7,Acute Myeloid Leukemia(AML),GSE2191,Mononuclear cells
+8,Acute Myeloid Leukemia(AML),GSE26294,Fibroblast and macrophages
+9,Acute Myocardial Infarction,GSE974,Left ventricular apex
+10,Acute Myocardial Infarction,GSE29532,PBMC
+11,Adult Still¡¯s Disease,GSE113645,CD14+ monocyte
+12,Adult?T-Cell?Leukemia,GSE33615,PBMC
+13,Adult?T-Cell?Leukemia,GSE10789,Monocytes
+14,Aging,GSE1572,Frontal cortex
+15,Alcohol Use Disorder,GSE53808,White matter
+16,Alcoholic Hepatitis,GSE28619,Liver tissue
+17,Alexander Disease,GSE116327,Brain tissue
+18,Allergic Asthma,GSE104468,Bronchial epithelia
+19,Allergic Asthma,GSE104468,Nasal epithelia
+20,Allergic Asthma,GSE104468,PBMC
+21,Allergic Asthma,GSE22528,Alveolar macrophage
+22,Allergic Contact Dermatitis,GSE6281,Upper nates skin
+23,Allergic Rhinitis,GSE51392,Bronchial epithelial cell
+24,Allergic Rhinitis,GSE51392,Nasal epithelial cell
+25,Alopecia Areata(AA),GSE45512,Scalp skin
+26,Alpha-1 Antitrypsin Deficiency,GSE1122,Lung tissue
+27,Alzheimer Disease,GSE110226,Lateral ventricular choroid plexus
+28,Alzheimer Disease,GSE109887,Middle temporal gyrus
+29,Alzheimer Disease,GSE36980,Frontal cortex
+30,Alzheimer Disease,GSE36980,Temporal cortex
+31,Alzheimer Disease,GSE32645,Cortex
+32,Alzheimer Disease,GSE26927,Entorhinal cortex
+33,Alzheimer Disease,GSE18309,PBMC
+34,Alzheimer Disease,GSE5281,Entorhinal cortex
+35,Alzheimer Disease,GSE5281,Hippocampus
+36,Alzheimer Disease,GSE5281,Medial temporal gyrus
+37,Alzheimer Disease,GSE5281,Posterior cingulate
+38,Alzheimer Disease,GSE5281,Superior frontal gyrus
+39,Alzheimer Disease,GSE5281,Primary visual cortex
+40,Alzheimer Disease,GSE4227,PBMC
+41,Alzheimer Disease,GSE1297,Hippocampus
+42,Alzheimer Disease,GSE36980,Hippocampus
+43,Amyotrophic Lateral Sclerosis 1,GSE28253,Lymphocytes
+44,Amyotrophic Lateral Sclerosis 1,GSE26927,Cervical spinal cord
+45,Amyotrophic Lateral Sclerosis 1,GSE26276, Skeletal muscle
+46,Anaplasmosis,GSE2600,Leukemic cell
+47,Androgenetic?Alopecia,GSE90594,Scalp skin
+48,Ankylosing Spondylitides,GSE25101,Peripheral blood
+49,Ankylosing Spondylitides,GSE11886,Macrophage
+50,Antiphospholipid Syndrome (APS),GSE50395,Monocytes
+51,Aortic Atherosclerosis,GSE20129,PBMC
+52,Aortic Valve Disease,GSE51472,Aortic valve
+53,Appendicitis,GSE9579,Appendix
+54,Arrhythmogenic Right Ventricular Cardiomyopathy,GSE29819,Left ventricular
+55,Arrhythmogenic Right Ventricular Cardiomyopathy,GSE29819,Right ventricular
+56,Asthma,GSE74075,Sputum
+57,Asthma,GSE59019,PBMC
+58,Asthma,GSE43696,Bronchial epithelia
+59,Asthma,GSE35643,Bronchial airway smooth muscle
+60,Asthma,GSE31773,CD4+ T cells
+61,Asthma,GSE31773,CD4+ T cells
+62,Asthma,GSE31773,CD8+ T cells
+63,Asthma,GSE31773,CD8+ T cells
+64,Asthma,GSE27335,Fibroblast
+65,Ataxia Telangiectasia,GSE75852,iPSC
+66,Atopic Eczema,GSE6012,Skin tissue
+67,Atopic Eczema,GSE32924,Skin tissue
+68,Autism,GSE25507,Lymphocytes
+69,Autism Spectrum Disorder,GSE26415,Peripheral blood
+70,Autoimmune Hepatitis,GSE159676,Liver tissue
+71,Autosomal Dominant Polycystic Kidney Disease,GSE7869,Renal cysts
+72,Autosomal Recessive Congenital Ichthyosis,GSE107462,Skin tissue
+73,Barrett Esophagus,GSE1420,Esophageal tissue
+74,B-Cell Adult Acute Lymphocytic Leukemia,GSE76349,Bone marrow stem cell
+75,Benign Prostatic Hyperplasia,GSE119195,Prostate tissue
+76,Bipolar Disorder,GSE12649,Cerebral Cortex
+77,Bipolar Disorder,GSE53987,Hippocampus
+78,Bipolar Disorder,GSE53987,Prefrontal cortex
+79,Bipolar Disorder,GSE53987,Striatum
+80,Bipolar Disorder,GSE12654,Cerebral Cortex
+81,Bipolar Disorder,GSE7036,Lymphocytes
+82,Bipolar Disorder,GSE5389,Orbitofrontal cortex
+83,Bipolar Disorder,GSE5388,Dorsolateral prefrontal cortex
+84,Burkitt Lymphoma,GSE9327,B cells
+85,CDG-Ic,GSE8440,Primary fibroblast
+86,CDG-Ie,GSE8440,Primary fibroblast
+87,CDG-Ig,GSE8440,Primary fibroblast
+88,Celiac Disease,GSE113469,PBMC
+89,Celiac Disease,GSE11501,Leucocytes
+90,Cerebral Palsy,GSE11686,Wrist muscle extensors
+91,Cerebral Palsy,GSE11686,Wrist muscle flexors
+92,Chops Syndrome(CHOPS),GSE64034,Skin fibroblast
+93,Chops Syndrome(CHOPS),GSE64031,Skin fibroblast
+94,Chronic Lymphocytic Leukemia,GSE8835,CD4+ cells
+95,Chronic Lymphocytic Leukemia,GSE8835,CD8+ cells
+96,Chronic Lymphocytic Leukemia,GSE28107,"	Peripheral blood"
+97,Chronic Lymphocytic Leukemia,GSE18026,B cells
+98,Chronic Myeloid Leukemia(CML),GSE11889,Haematopoietic Stem cell
+99,Chronic Myeloid Leukemia(CML),GSE5550,Bone marrow
+100,Chronic Myeloid Leukemia(CML),GSE43754,Bone marrow stem cell
+101,Chronic Myeloid Leukemia(CML),GSE43754,Bone marrow stem cell
+102,Chronic Obstructive Pulmonary Disease,GSE100281,Quadriceps
+103,Chronic Obstructive Pulmonary Disease,GSE5060,Small airways
+104,Chronic Obstructive Pulmonary Disease,GSE475,Diaphragm muscle
+105,Cicatricial Pemphigoid,GSE77361,Conjunctiva tissue
+106,Cleft Lip,GSE85817,Orbicularis oris muscle
+107,Cockayne Syndrome,GSE111989,CS patient cell line
+108,Common Variable Immunodeficiency,GSE72625,Pars descendens of duodenum
+109,Congestive Heart Failure (CHF),GSE17294, Left atrial  myocytes
+110,Congestive Heart Failure (CHF),GSE17294, Left  ventricular myocytes
+111,Constipation,GSE101968,Rectal wall tissue
+112,Cornelia De Lange Syndrome?(CDLS),GSE64034,Skin fibroblast
+113,Coronary Heart Disease 1,GSE42148,Peripheral blood
+114,Coronary?Artery?Disease,GSE42148,"	Peripheral blood"
+115,Coronary?Artery?Disease,GSE20680,PBMC
+116,Crohn's Disease,GSE3365,PBMC
+117,Crohn's Disease,GSE6731,Colon
+118,Cryopyrin-Associated Periodic Syndrome?(CAPS),GSE43553,PBMC
+119,Cryopyrin-Associated Periodic Syndrome?(CAPS),GSE43553,PBMC
+120,Cryopyrin-Associated Periodic Syndrome?(CAPS),GSE43553,PBMC
+121,Cryopyrin-Associated Periodic Syndrome?(CAPS),GSE43553,PBMC
+122,Cryopyrin-Associated Periodic Syndrome?(CAPS),GSE17732,Peripheral blood
+123,Cutaneous Leishmaniasis,GSE69252,NK cell
+124,Cutaneous Leishmaniasis,GSE69252,NK cell
+125,Cutaneous Leishmaniasis,GSE55664,Skin tissue
+126,Cystic Fibrosis,GSE15568,Skin tissue
+127,Dengue Disease,GSE51808,Peripheral blood
+128,Dengue Hemorrhagic Fever,GSE51808,Peripheral blood
+129,Depression,GSE83386,Lymphoblastoid cell
+130,Dermatomyositis,GSE1551,Muscle tissue
+131,Dermatomyositis,GSE5370,Skeletal muscle
+132,Diabetes,GSE43950,Peripheral blood
+133,Diabetes,GSE43950,Peripheral blood
+134,"Diabetes Mellitus, Insulin-Dependent",GSE55098,PBMC
+135,"Diabetes Mellitus, Insulin-Dependent",GSE29142,PBMC
+136,"Diabetes Mellitus, Insulin-Dependent",GSE10586,T lymphocyte
+137,"Diabetes Mellitus, Noninsulin-Dependent",GSE25462,Skeletal muscle
+138,"Diabetes Mellitus, Noninsulin-Dependent",GSE23343,Liver tissues
+139,"Diabetes Mellitus, Noninsulin-Dependent",GSE20966,Pancreatic beta-cell
+140,"Diabetes Mellitus, Noninsulin-Dependent",GSE12643,Skeletal muscle
+141,Diabetic Nephropathy,GSE30122,Glomeruli/Tubuli
+142,Diffuse Large B Cell Lymphoma,GSE9327,B cells
+143,Dilated Cardiomyopathy(DCM),GSE3586,Myocardial tissue
+144,Dilated Cardiomyopathy(DCM),GSE82290,Fibroblasts
+145,Dilated Cardiomyopathy(DCM),GSE29819,Left ventricular
+146,Dilated Cardiomyopathy(DCM),GSE29819,Right ventricular
+147,Dilated Cardiomyopathy(DCM),GSE4172,Myocardial Tissue
+148,Discoid Lupus Erythematosus,GSE81071,Skin tissue
+149,Discoid Lupus Erythematosus,GSE119207,Hair follicle
+150,Down Syndrome,GSE42956,Fibroblast
+151,Duchenne muscular dystrophy,GSE3307,Skeletal muscle
+152,Duchenne Muscular Dystrophy,GSE38417,Muscle tissue
+153,Duchenne Muscular Dystrophy,GSE6011,Skeletal muscle
+154,Duchenne Muscular Dystrophy,GSE1004,Skeletal muscle
+155,Dupuytren Contracture,GSE41524,Primary fibroblast
+156,Dysferlinopathy,GSE44874,Myotube
+157,Dysferlinopathy,GSE3307,Skeletal muscle
+158,DYT1 Dystonia,GSE19419,Peripheral blood
+159,"Ehlers-Danlos Syndrome, Hypermobility Type",GSE77753,Fibroblast
+160,Emery Dreifuss Muscular Dystrophy,GSE3307,Skeletal muscle
+161,Endometriosis,GSE25628,Endometrium
+162,Endometriosis,GSE7305,Endometrium
+163,Endometriosis,GSE6364,Endometrium
+164,Eosinophilic Gastroenteritis (EGE),GSE54043,Gastric antrum tissue
+165,Epidermolysis Bullosa Simplex,GSE28315,Skin tissue
+166,Epilepsy,GSE7486,Lymphoblastoid cell
+167,Essential Hypertension,GSE24752,Peripheral blood
+168,Essential Thrombocytemia,GSE2006,Thrombocyte
+169,Essential Thrombocytemia,GSE61629,Peripheral blood
+170,Extrapulmonary Tuberculosis,GSE83456,Peripheral blood
+171,Facioscapulohumeral Muscular Dystrophy,GSE36398,Biceps and deltoid muscles
+172,Facioscapulohumeral Muscular Dystrophy,GSE44874,Myotube
+173,Facioscapulohumeral Muscular Dystrophy,GSE9397,Skeletal muscle
+174,Familial Combined Hyperlipidaemia(FCH),GSE1010,Lymphoblast
+175,Familial Combined Hyperlipidaemia(FCH),GSE11393,Monocyte
+176,Familial Hypercholesterolemia,GSE6088,T cell
+177,Familial Hypercholesterolemia,GSE6054,Monocyte
+178,Familial?Chylomicronemia?Syndrome,GSE149607,PBMC
+179,Fanconi Anemia,GSE40865,Neuron stem cell
+180,Focal Segmental Glomerulosclerosis,GSE125779,Tubulointerstitial tissue
+181,Follicular Lymphoma,GSE65135,Lymph node
+182,Follicular Lymphoma,GSE48047,Duodenal
+183,Follicular Lymphoma,GSE9327,B cell
+184,Fragile-X Syndrome,GSE103965,Neural progenitor
+185,Frontotemporal Dementia (FTD),GSE110226,Lateral ventricular choroid plexus
+186,Glioblastoma-Multiforme,GSE24084,Peripheral blood
+187,Glioblastoma-Multiforme,GSE12657,Glioma
+188,"Granulomatous Disease, Chronicl",GSE935,Polymorphonuclear leukocytes
+189,Hairy Cell Leukemia,GSE161279,Peripheral blood
+190,Heart Failure,GSE9128,PBMC
+191,Hepatic Encephalopathy,GSE53808,White matter
+192,Hepatitis C Infection,GSE2067,Hepatocyte
+193,Hepatitis C Virus,GSE38597,Liver tissue
+194,Hepatitis-B(HBV),GSE58208,PBMC
+195,Hepatitis-B(HBV),GSE51489,CD8 T cell
+196,Hepatocellular Carcinoma?(HCC),GSE58208,PBMC
+197,Hepatosplenic T-Cell Lymphoma,GSE57520,Spleen tissue
+198,Herpes Simplex,GSE18527,Skin tissue
+199,Hidradenitis Suppurativa,GSE128637,Skin tissue
+200,Hidradenitis Suppurativa,GSE79149,Peripheral blood
+201,Hodgkin-Lymphoma,GSE2657,CD3+ T cell
+202,Human Immunodeficiency Virus Infection(HIV),GSE35864,Three regions
+203,Human Immunodeficiency Virus Infection(HIV),GSE6740,CD4+ T cell
+204,Human Immunodeficiency Virus Infection(HIV),GSE6740,CD8+ T cell
+205,Human Immunodeficiency Virus Type 1,GSE35864,White matter
+206,Human Immunodeficiency Virus Type 1,GSE35864,Frontal Cortex
+207,Human Immunodeficiency Virus Type 1,GSE35864,Basal ganglia
+208,Human Immunodeficiency Virus Type 1,GSE16363,Lymphatic tissue
+209,Human Immunodeficiency Virus Type 1,GSE4124,PBMC
+210,Huntington Disease,GSE110226,Lateral ventricular choroid plexus
+211,Huntington Disease,GSE26927,"Ventral head of caudate
+nucleus"
+212,Huntington Disease,GSE24250,Venous cellular whole blood
+213,Huntington Disease,GSE8762,Lymphocyte
+214,Huntington Disease,GSE1751,Peripheral blood
+215,Huntington Disease,GSE37517,iPSC
+216,Hutchinson-Gilford Progeria Syndrome,GSE28863,Primary fibroblast
+217,Hutchinson-Gilford Progeria Syndrome,GSE3860,Primary fibroblast
+218,Hypertrophic Cardiomyopathy,GSE32453,Myocardium tissue
+219,Hypertrophic Cardiomyopathy,GSE160997,Anterior septal tissue
+220,Hypoxia,GSE4483,Astrocytes
+221,Hypoxia,GSE4483,HeLa
+222,Idiopathic Inflammatory Myopathy,GSE5370,Skeletal muscle
+223,Iga-Nephropathy,GSE73953,PBMC
+224,Igg4-Related Disease,GSE66465,PBMC
+225,Immune Thrombocytopenia,GSE574,CD3+ cells
+226,Inclusion Body Myositis,GSE3112,Skeletal muscle
+227,Infective Endocarditis,GSE29161,Peripheral blood
+228,Influenza,GSE42026,PBMC
+229,Interstitial Cystitis,GSE57560,Bladder tissue
+230,Interstitial Cystitis,GSE28242,Urine sediment
+231,Interstitial Cystitis,GSE11783,Bladder tissue
+232,Interstitial Lung Disease (ILD),GSE21369,lung tissue
+233,Intracranial Aneurysm,GSE26969,Arterial tissue
+234,Ischemic Stroke,GSE16561,Peripheral blood
+235,ISCU-myopathy,GSE48574,Vastus lateralis
+236,Juvenile Dermatomyositis,GSE11971,Skeletal muscle
+237,Juvenile Neuronal Ceroid Lipofuscinosis,GSE22225,Lymphocytes
+238,Juvenile Rheumatoid Arthritis,GSE15645,PBMC
+239,Kawasaki Disease,GSE109351,PBMC
+240,Large Granular Lymphocytic Leukemia(LGLL),GSE10631,PBMC
+241,Leptin Deficiency or Dysfunction,GSE474,Skeletal muscle
+242,Leptospirosis,GSE72946,"	Peripheral blood"
+243,LGMD2A,GSE3307,Skeletal muscle
+244,LGMD2I,GSE3307,Skeletal muscle
+245,Liver Cirrhosis,GSE41919,Cerebral cortex
+246,Lyme Disease?(LYM),GSE145974,PBMC
+247,Lyme Disease?(LYM),GSE145974,PBMC
+248,Lyme Disease?(LYM),GSE145974,PBMC
+249,"Lymphoma, Mucosa Associated Lymphoid Type",GSE48047,Gastric MALT
+250,"Macular Degeneration, Age-Related, 1",GSE76237,Monocyte
+251,"Macular Degeneration, Age-Related, 1",GSE1719,Fibroblast
+252,Major Depressive Disorder,GSE54572,Brain anterior cingulate cortex
+253,Major Depressive Disorder,GSE54568,Dorsolateral prefrontal cortex
+254,Major Depressive Disorder,GSE54567,Dorsolateral prefrontal cortex
+255,Major Depressive Disorder,GSE54563,Anterior cingulate cortex
+256,Major Depressive Disorder,GSE53987,Hippocampus
+257,Major Depressive Disorder,GSE53987,Prefrontal cortex
+258,Major Depressive Disorder,GSE53987,Striatum
+259,Major Depressive Disorder,GSE38206,PBMC
+260,Major Depressive Disorder,GSE12654,Cerebral Cortex
+261,Major Depressive Disorder,GSE54566,Brain amygdala
+262,Malaria,GSE34404,"	Peripheral blood"
+263,Mantle Cell Lymphoma,GSE9327,B cells
+264,Marfan Syndrome?(MFS),GSE8759,Skin fibroblast
+265,Mayer-Rokitansky-Kuster-Hauser Syndrome(MRKHS),GSE52609,Vaginal cell
+266,Meibomian Cyst,GSE17822,Meibomian glands
+267,Melanoma,GSE4570,Melanocytes
+268,Melioidosis,GSE100159,"	Peripheral blood"
+269,Membranous Nephropathy,GSE73953,PBMC
+270,Meningococcal Infection,GSE11755,Monocyte
+271,Metabolic Syndrome,GSE43760,Vastus lateralis muscle
+272,Metabolic Syndrome,GSE23561,Peripheral blood
+273,Mitral Valve Prolapse,GSE109744,Mitral valve tissue
+274,Monoclonal Gammopathy Of Undetermined Significance(MGUS),GSE5900,Bone marrow
+275,Monoclonal Gammopathy Of Undetermined Significance(MGUS),GSE80608,Bone marrow mesenchymal stem cell
+276,Multifocal Motor Neuropathy,GSE26276,"	Skeletal muscle"
+277,Multiple Myeloma,GSE113295,Bone marrow
+278,Multiple Myeloma,GSE36474,Bone marrow mesenchymal stromal cell
+279,Multiple Myeloma,GSE24870,Bone Marrow
+280,Multiple Myeloma,GSE80608,Bone marrow mesenchymal stem cell
+281,Multiple Sclerosis,GSE52139,Spinal cord
+282,Multiple Sclerosis,GSE32645,Cortex
+283,Multiple Sclerosis,GSE26927,Superior frontal gyrus
+284,Multiple Sclerosis,GSE23832,PBMC
+285,Multiple Sclerosis,GSE21942,PBMC
+286,Myelodysplastic Syndrome(MDS),GSE2779,Bone marrow CD34+ cells
+287,Myelodysplastic Syndrome(MDS),GSE61853,Bone marrow mesenchymal stromal cell
+288,Myelodysplastic Syndrome(MDS),GSE4619,Bone marrow CD34+ cells
+289,Myelofibrosis,GSE84638,Megakaryocytes derived from primary myelofibrosis
+290,Myelofibrosis,GSE61629,"	Peripheral blood"
+291,Myelofibrosis,GSE44426,Bone marrow mesenchymal stromal cell
+292,Myocardial Infarction,GSE48060,"	Peripheral blood"
+293,Myocarditis,GSE4172,Endomyocardial tissue
+294,Myotonic Dystrophy-2 (DM2),GSE37084,Biceps brachii
+295,Nestor-Guillermo Progeria Syndrome (NGPS),GSE65170,iPSC
+296,Neural Tube Defects,GSE4182,Amniotic fluid
+297,Nodal Marginal Zone Lymphoma,GSE9327,B celsl
+298,Non-Alcoholic Steatohepatitis (NASH),GSE24807,Liver tissue
+299,Non-Alcoholic Steatohepatitis (NASH),GSE159676,Liver tissue
+300,Non-Alcoholic Steatohepatitis (NASH),GSE48452,Liver tissue
+301,Obesity,GSE474,Skeletal muscle
+302,Obesity,GSE18897,Peripheral blood
+303,Obesity,GSE9624,Adipose tissue
+304,Obstructive Sleep Apnea,GSE38792, Visceral fat tissue
+305,Obstructive Sleep Apnea,GSE135917,Subcutaneous fat tissue
+306,Obstructive Sleep Apnea,GSE61463,PBMC
+307,Oligodendroglioma,GSE12657,Glioma
+308,Osteoarthritis,GSE55235,Synovial tissue
+309,Osteoarthritis,GSE51588,Subchondral bone
+310,Osteoarthritis,GSE48556,PBMC
+311,Osteoarthritis,GSE1919,Synovial Membrane
+312,Osteoporosis,GSE56116,"	Peripheral blood"
+313,Parkinson Disease,GSE7621,Substantia nigra
+314,Parkinson Disease,GSE34287,Peripheral blood
+315,Parkinson Disease,GSE28894,Frontal cortex
+316,Parkinson Disease,GSE28894,Cerebellum
+317,Parkinson Disease,GSE28894,Striatum
+318,Parkinson Disease,GSE28894,Medulla
+319,Parkinson Disease,GSE26927,Substantia nigra
+320,Parkinson Disease,GSE24378,Dopamine neurons
+321,Parkinson Disease,GSE19587,Brain
+322,Parkinson Disease,GSE6613,Peripheral blood
+323,Parkinson Disease,GSE51922,iPSC-derived dopaminergic neurons
+324,Parkinson Disease,GSE20146,Globus pallidus interna
+325,Parkinson Disease,GSE18838,PBMC
+326,Pemphigus Foliaceus (PF),GSE53873,CD4+ cells
+327,Periodic Fever Aphtous Stomatitis Pharyngitis Adenopathy Syndrome(PFAPA syndrome),GSE17732,"	Peripheral blood"
+328,Periodontitis,GSE10334,Gingival tissue
+329,Peripheral Vascular Disease,GSE27034,PBMC
+330,Pilocytic-Astrocytoma,GSE12657,Glioma
+331,PLOSL1,GSE3624,Monocyte derived DCs
+332,Polycystic Ovary Syndrome,GSE6798,Skeletal muscle
+333,Polycystic Ovary Syndrome,GSE5090,Omental adipose tissue
+334,Polycystic Ovary Syndrome,GSE8157,Skeletal muscle
+335,Polycythemia Vera?(PV),GSE61629,"	Peripheral blood"
+336,Polymyositis,GSE48280,Skeletal muscle
+337,Polymyositis,GSE39454,Skeletal muscle
+338,Polymyositis,GSE3112,Skeletal muscle
+339,Pompe Disease,GSE38680,Biceps tissue
+340,Pre-Eclampsia,GSE24129,Placenta
+341,Pre-Eclampsia,GSE10588,Placenta
+342,Pre-Eclampsia,GSE4707,Placenta
+343,Primary Biliary Cirrhosis?(PBC),GSE159676,Liver tissue
+344,Primary Open Angle Glaucoma,GSE27276,Trabecular meshwork tissue
+345,Primary Sclerosing Cholangitis,GSE159676,Liver tissue
+346,Psoriasis,GSE109248,Skin tissue
+347,Psoriasis,GSE47598,T cells
+348,Psoriasis,GSE6710,Skin tissue
+349,Psoriasis,GSE82140,Skin tissue
+350,Psoriasis,GSE32407,Skin tissue
+351,Pulmonary Emphysema,GSE1122,Lung tissue
+352,Pulmonary Fibrosis,GSE135456,Pulmonary fibroblast
+353,Pulmonary Fibrosis,GSE135065,Pulmonary fibroblast
+354,Pulmonary Fibrosis,GSE53845,Lung tissue
+355,Pulmonary Fibrosis,GSE48149,Lung tissue
+356,Pulmonary Hypertension,GSE48149,Lung tissue
+357,Pulmonary Sarcoidosis,GSE16538,Lung tissue
+358,Pulmonary Systemic Sclerosis,GSE48149,Lung tissue
+359,Pulmonary Tuberculosis,GSE83456,"	Peripheral blood"
+360,Respiratory Syncytial Virus Infectious Disease,GSE42026,Peripheral blood
+361,Retinitis Pigmentosa,GSE141531,Retinal organoids
+362,Rheumatoid Arthritis,GSE1919,Synovial tissue
+363,Rheumatoid Arthritis,GSE77298,Synovial tissue
+364,Rheumatoid Arthritis,GSE56649,CD4+ cells
+365,Rheumatoid Arthritis,GSE55235,Synovial tissue
+366,Rheumatoid Arthritis,GSE15573,PBMC
+367,Rheumatoid Arthritis,GSE2053,Synovial tissue
+368,Rhinitis,GSE19187,Nasal epithelium
+369,Schizophrenia,GSE145554,Pyramidal neurons
+370,Schizophrenia,GSE53987,Hippocampus
+371,Schizophrenia,GSE53987,Prefrontal cortex
+372,Schizophrenia,GSE53987,Striatum
+373,Schizophrenia,GSE40102,HiPSC-derived neural progenitor cells
+374,Schizophrenia,GSE27383,PBMC
+375,Schizophrenia,GSE26927,Grey matter
+376,Schizophrenia,GSE25673,HiPSCs
+377,Schizophrenia,GSE17612,Post-mortem
+378,Schizophrenia,GSE12654,Cerebral cortex
+379,Schizophrenia,GSE12649,Cerebral cortex
+380,Septic Shock,GSE26440,Peripheral blood
+381,Septic Shock,GSE26378,Peripheral blood
+382,Septic Shock,GSE9692,Peripheral blood
+383,Setleis Syndrome,GSE16524,Skin fibroblast
+384,Severe Acute Respiratory Syndrome£¬SARS,GSE1739,PBMC
+385,Shwachman Diamond Syndrome,GSE32057,Bone marrow mononuclear cell
+386,Sickle Cell Anemia,GSE9877,Endothelial cell
+387,Sickle Cell Disease,GSE11524,Sickle cell
+388,Sjogren Syndrome,GSE83558,Plasmacytoid dendritic cell
+389,Sjogren Syndrome,GSE51092,Peripheral blood
+390,Sjogren Syndrome,GSE23117,Salivary glands
+391,Smoldering Myeloma,GSE5900,Bone marrow
+392,Sotos Syndrome,GSE27200,Dermal fibroblast
+393,Spinocerebellar Ataxia,GSE101288,Peripheral blood
+394,Splenic Marginal Zone Lymphoma,GSE9327,B cells
+395,Subacute Cutaneous Lupus Erythematosus,GSE81071,Skin tissue
+396,Systemic Lupus Erythematosus,GSE109248,Skin tissue
+397,Systemic Lupus Erythematosus,GSE72754,Peripheral blood
+398,Systemic Lupus Erythematosus,GSE50395,Monocyte
+399,Systemic Lupus Erythematosus,GSE23203,EPCs/CACs
+400,Systemic Lupus Erythematosus,GSE13887,T cells
+401,Systemic Lupus Erythematosus,GSE46907,Monocyte
+402,Systemic Onset Juvenile Idiopathic Arthritis,GSE7753,PBMC
+403,Systemic Onset Juvenile Idiopathic Arthritis,GSE21521,PBMC
+404,Systemic Onset Juvenile Idiopathic Arthritis,GSE8361,PBMC
+405,Systemic Scleroderma,GSE45536,Plasma cell
+406,T-Cell Prolymphocytic Leukemia,GSE5788,T cells
+407,Tendinopathy,GSE26051,Tendon tisssue
+408,Testicular?Seminoma,GSE8607,Testicular seminoma
+409,Tetralogy of Fallot,GSE26125,Right ventricle
+410,Thrombotic Thrombocytopenic Purpura?(TTP),GSE36418,Leukocyte
+411,Tibial Muscular Dystrophy (TMD),GSE42806,Skeletal muscle
+412,Trachoma,GSE24383,Conjunctival tissue
+413,Trachoma,GSE23705,Conjunctival tissue
+414,Tuberculosis,GSE62525,PBMC
+415,Tuberculous Meningitis (TBM),GSE32645,Cortex
+416,Turner Syndrome,GSE58435,Amniotic fluid
+417,Ulcerative Colitis,GSE38713,Intestinal mucosa
+418,Ulcerative Colitis,GSE6731,Colon
+419,Ulcerative Colitis,GSE3365,PBMC
+420,Ullrich Congenital Muscular Dystrophy(UCMD),GSE56741,Dermal fibroblasts
+421,UP-FTD,GSE13162,Brain samples
+422,Uterine Fibroid,GSE593,Myometrium
+423,Uv-Sensitive Syndrome?(UVSS),GSE111989,Skin tissue
+424,Visceral Leishmaniasis,GSE125992,PBMC
+425,Vitiligo,GSE90880,Peripheral blood
+426,Vulvar Intraepithelial Neoplasia,GSE5563,Vulva tissue
+427,Waldenstrom Macroglobulinemia,GSE6691,Bone marrow
+428,Williams Beuren Syndrome,GSE16715,Skin fibroblast
+429,X-Linked Cerebral Adrenoleukodystrophy,GSE34309,Dermal fibroblast
+430,X-Linked Cerebral Adrenoleukodystrophy,GSE34308,Dermal fibroblast

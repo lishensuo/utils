@@ -17,13 +17,13 @@
 se_func = function(rmats_se){
 	trans = apply(rmats_se, 1,function(x){
 		if(x["strand"]=="+"){
-			tran = paste0(x["chr"],":",x["upstreamES"],":",x["upstreamEE"],":+@",
-						  x["chr"],":",x["exonStart_0base"],":",x["exonEnd"],":+@",
-						  x["chr"],":",x["downstreamES"],":",x["downstreamEE"])
+			tran = paste0(x["chr"],":",as.numeric(x["upstreamES"])+1,":",x["upstreamEE"],":+@",
+						  x["chr"],":",as.numeric(x["exonStart_0base"])+1,":",x["exonEnd"],":+@",
+						  x["chr"],":",as.numeric(x["downstreamES"])+1,":",x["downstreamEE"])
 		} else {
-			tran = paste0(x["chr"],":",x["downstreamES"],":",x["downstreamEE"],":-@",
-						  x["chr"],":",x["exonStart_0base"],":",x["exonEnd"],":-@",
-						  x["chr"],":",x["upstreamES"],":",x["upstreamEE"])
+			tran = paste0(x["chr"],":",as.numeric(x["downstreamES"])+1,":",x["downstreamEE"],":-@",
+						  x["chr"],":",as.numeric(x["exonStart_0base"])+1,":",x["exonEnd"],":-@",
+						  x["chr"],":",as.numeric(x["upstreamES"])+1,":",x["upstreamEE"])
 		}
 		return(tran)
 	})
@@ -51,15 +51,15 @@ se_func = function(rmats_se){
 mxe_func = function(rmats_mxe){
 	trans = apply(rmats_mxe, 1,function(x){
 		if(x["strand"]=="+"){
-			tran = paste0(x["chr"],":",x["upstreamES"],":",x["upstreamEE"],":+@",
-						  x["chr"],":",x["1stExonStart_0base"],":",x["1stExonEnd"],":+@",
-						  x["chr"],":",x["2ndExonStart_0base"],":",x["2ndExonEnd"],":+@",
-						  x["chr"],":",x["downstreamES"],":",x["downstreamEE"])
+			tran = paste0(x["chr"],":",as.numeric(x["upstreamES"])+1,":",x["upstreamEE"],":+@",
+						  x["chr"],":",as.numeric(x["1stExonStart_0base"])+1,":",x["1stExonEnd"],":+@",
+						  x["chr"],":",as.numeric(x["2ndExonStart_0base"])+1,":",x["2ndExonEnd"],":+@",
+						  x["chr"],":",as.numeric(x["downstreamES"])+1,":",x["downstreamEE"])
 		} else {
-			tran = paste0(x["chr"],":",x["downstreamES"],":",x["downstreamEE"],":-@",
-						  x["chr"],":",x["2ndExonStart_0base"],":",x["2ndExonEnd"],":-@",
-						  x["chr"],":",x["1stExonStart_0base"],":",x["1stExonEnd"],":-@",
-						  x["chr"],":",x["upstreamES"],":",x["upstreamEE"])
+			tran = paste0(x["chr"],":",as.numeric(x["downstreamES"])+1,":",x["downstreamEE"],":-@",
+						  x["chr"],":",as.numeric(x["2ndExonStart_0base"])+1,":",x["2ndExonEnd"],":-@",
+						  x["chr"],":",as.numeric(x["1stExonStart_0base"])+1,":",x["1stExonEnd"],":-@",
+						  x["chr"],":",as.numeric(x["upstreamES"])+1,":",x["upstreamEE"])
 		}
 		return(tran)
 	})
@@ -89,11 +89,11 @@ mxe_func = function(rmats_mxe){
 ri_func = function(rmats_ri){
 	trans = apply(rmats_ri, 1,function(x){
 		if(x["strand"]=="+"){
-			tran = paste0(x["chr"],":",x["riExonStart_0base"],":",x["upstreamEE"],":+@",
-						  x["chr"],":",x["downstreamES"],":",x["riExonEnd"])
+			tran = paste0(x["chr"],":",as.numeric(x["riExonStart_0base"])+1,":",x["upstreamEE"],":+@",
+						  x["chr"],":",as.numeric(x["downstreamES"])+1,":",x["riExonEnd"])
 		} else {
-			tran = paste0(x["chr"],":",x["riExonEnd"],":",x["downstreamES"],":-@",
-						  x["chr"],":",x["upstreamEE"],":",x["riExonStart_0base"])
+			tran = paste0(x["chr"],":",as.numeric(x["riExonEnd"])+1,":",x["downstreamES"],":-@",
+						  x["chr"],":",as.numeric(x["upstreamEE"])+1,":",x["riExonStart_0base"])
 		}
 		return(tran)
 	})
@@ -123,13 +123,13 @@ ri_func = function(rmats_ri){
 a5ss_func = function(rmats_a5ss){
 	trans = apply(rmats_a5ss, 1,function(x){
 		if(x["strand"]=="+"){
-			tran = paste0(x["chr"],":",x["longExonStart_0base"],":",x["shortEE"],"|",
+			tran = paste0(x["chr"],":",as.numeric(x["longExonStart_0base"])+1,":",x["shortEE"],"|",
 						  x["longExonEnd"],":+@",
-						  x["chr"],":",x["flankingES"],":",x["flankingEE"])
+						  x["chr"],":",as.numeric(x["flankingES"])+1,":",x["flankingEE"])
 		} else {
-			tran = paste0(x["chr"],":",x["longExonEnd"],":",x["longExonStart_0base"],"|",
+			tran = paste0(x["chr"],":",as.numeric(x["longExonEnd"])+1,":",x["longExonStart_0base"],"|",
 						  x["shortES"],":+@",
-						  x["chr"],":",x["flankingES"],":",x["flankingEE"])
+						  x["chr"],":",as.numeric(x["flankingES"])+1,":",x["flankingEE"])
 		}
 		return(tran)
 	})
@@ -161,12 +161,12 @@ a5ss_func = function(rmats_a5ss){
 a3ss_func = function(rmats_a3ss){
 	trans = apply(rmats_a3ss, 1,function(x){
 		if(x["strand"]=="+"){
-			tran = paste0(x["chr"],":",x["flankingES"],":",x["flankingEE"],
-						  ":+@",x["longExonStart_0base"],
+			tran = paste0(x["chr"],":",as.numeric(x["flankingES"])+1,":",x["flankingEE"],
+						  ":+@",as.numeric(x["longExonStart_0base"])+1,
 						  x["chr"],"|",x["shortES"],":",x["longExonEnd"])
 		} else {
-			tran = paste0(x["chr"],":",x["flankingES"],":",x["flankingEE"],
-						  ":+@",x["shortEE"],
+			tran = paste0(x["chr"],":",as.numeric(x["flankingES"])+1,":",x["flankingEE"],
+						  ":+@",as.numeric(x["shortEE"])+1,
 						  x["chr"],"|",x["longExonEnd"],":",x["longExonStart_0base"])
 		}
 		return(tran)

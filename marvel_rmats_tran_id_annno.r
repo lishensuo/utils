@@ -128,7 +128,7 @@ a5ss_func = function(rmats_a5ss){
 						  x["chr"],":",as.numeric(x["flankingES"])+1,":",x["flankingEE"])
 		} else {
 			tran = paste0(x["chr"],":",as.numeric(x["longExonEnd"])+1,":",x["longExonStart_0base"],"|",
-						  x["shortES"],":+@",
+						  x["shortES"],":-@",
 						  x["chr"],":",as.numeric(x["flankingES"])+1,":",x["flankingEE"])
 		}
 		return(tran)
@@ -166,7 +166,7 @@ a3ss_func = function(rmats_a3ss){
 						  x["chr"],"|",x["shortES"],":",x["longExonEnd"])
 		} else {
 			tran = paste0(x["chr"],":",as.numeric(x["flankingES"])+1,":",x["flankingEE"],
-						  ":+@",as.numeric(x["shortEE"])+1,
+						  ":-@",as.numeric(x["shortEE"])+1,
 						  x["chr"],"|",x["longExonEnd"],":",x["longExonStart_0base"])
 		}
 		return(tran)

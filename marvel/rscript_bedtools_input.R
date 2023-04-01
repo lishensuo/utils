@@ -4,9 +4,6 @@ id = args[1]
 # id = "ERR1562273"
 # Dir_pare = "/home/lishensuo/STUDY/marvel/practice2"
 
-chr_size = data.table::fread(paste0("./refdata/hg38.chrom.sizes"),header=F,data.table=F)
-
-chr_order = data.table::fread(paste0("./work/star/", id, "/sorted_chr_in_bam.txt"),header=F,data.table=F)
 # table(chr_order[,1] %in% chr_size[,1])
 # chr_out = dplyr::inner_join(chr_order, chr_size)
 # chr_out = chr_out[grep("_", chr_out$V1,fixed=T, invert=T),]
@@ -18,7 +15,7 @@ intron_coord = intron_coord[order(intron_coord$chr, intron_coord$upstreamEE),]
 intron_coord$chr=as.character(intron_coord$chr)
 intron_coord = na.omit(intron_coord)
 
-chr_size = data.table::fread(paste0("./refdata/hg38.chrom.sizes"),header=F,data.table=F)
+chr_size = data.table::fread(paste0("../basic/gtf/star_index/chrNameLength.txt"),header=F,data.table=F)
 chr_order = data.table::fread(paste0("./work/star/", id, "/sorted_chr_in_bam.txt"),header=F,data.table=F)
 # chr_out = chr_size[match(unique(intron_coord$chr), chr_size$V1),]
 chr_out = dplyr::inner_join(chr_order, chr_size)

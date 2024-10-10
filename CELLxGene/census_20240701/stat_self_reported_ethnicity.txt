@@ -1,0 +1,32 @@
+self_reported_ethnicity	count
+unknown	36089650
+European	30660767
+Asian	1436328
+African American	1272096
+Hispanic or Latin American	1027537
+British	754609
+Han Chinese	606013
+African	480165
+African American or Afro-Caribbean	450833
+Korean	366741
+Japanese	286809
+Singaporean Chinese	124371
+Singaporean Indian	106923
+Singaporean Malay	100626
+South Asian	80830
+American	66748
+European American	65216
+Native American,Hispanic or Latin American	63066
+Bangladeshi	58134
+East Asian	51198
+Irish	42868
+Oceanian	31780
+European,Asian	23450
+Iraqi	18518
+Chinese	13400
+Greater Middle Eastern  (Middle Eastern or North African or Persian)	12958
+South East Asian	9223
+Jewish Israeli	8616
+Pacific Islander	6696
+Finnish	4355
+Native American	1986

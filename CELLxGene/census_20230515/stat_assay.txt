@@ -1,0 +1,21 @@
+assay	count
+10x 3' v3	23296808
+10x 3' v2	12412039
+10x 5' v1	6292436
+sci-RNA-seq	5064268
+10x 5' v2	3116133
+10x 3' transcription profiling	811422
+10x 5' transcription profiling	770127
+microwell-seq	642559
+Drop-seq	279635
+Seq-Well	206754
+BD Rhapsody Whole Transcriptome Analysis	177276
+Smart-seq2	161197
+single-cell RNA sequencing	133511
+10x 3' v1	121394
+single cell library construction	117962
+BD Rhapsody Targeted mRNA	96145
+inDrop	51304
+10x technology	29128
+STRT-seq	9386
+CEL-seq2	5244

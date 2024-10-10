@@ -1,0 +1,69 @@
+disease	count
+normal	37489811
+COVID-19	4562641
+malignant ovarian serous tumor	1553549
+glioblastoma	1477830
+lung adenocarcinoma	1422977
+dementia	968106
+dilated cardiomyopathy	934441
+systemic lupus erythematosus	777258
+Crohn disease	577191
+squamous cell lung carcinoma	303260
+pulmonary fibrosis	268932
+Alzheimer disease	263883
+small cell lung carcinoma	244903
+non-small cell lung carcinoma	241592
+chronic kidney disease	218574
+arrhythmogenic right ventricular cardiomyopathy	203291
+chronic obstructive pulmonary disease	178451
+breast cancer	175414
+myocardial infarction	169854
+acute kidney failure	150604
+B-cell non-Hodgkin lymphoma	133405
+follicular lymphoma	122702
+benign prostatic hyperplasia	120984
+gastric cancer	116329
+post-COVID-19 disorder	97224
+respiratory system disorder	94987
+stomach disorder	82152
+gastritis	79882
+interstitial lung disease	68456
+common variable immunodeficiency	64759
+blastoma	57445
+pilocytic astrocytoma	34291
+pulmonary emphysema	33011
+Crohn ileitis	32458
+pneumonia	31923
+Barrett esophagus	30715
+influenza	29752
+chronic rhinitis	29137
+acute myeloid leukemia	27852
+tubular adenoma	27248
+non-compaction cardiomyopathy	22656
+type 1 diabetes mellitus	22400
+lung large cell carcinoma	21167
+trisomy 18	21066
+clear cell renal carcinoma	20509
+type 2 diabetes mellitus	19262
+hydrosalpinx	17798
+cystic fibrosis	17590
+Down syndrome	16743
+colon sessile serrated adenoma/polyp	14676
+lymphangioleiomyomatosis	12374
+adenocarcinoma	11483
+pleomorphic carcinoma	10765
+hypersensitivity pneumonitis	10379
+non-specific interstitial pneumonia	8597
+hyperplastic polyp	8309
+tubulovillous adenoma	7219
+colorectal cancer	6215
+pulmonary sarcoidosis	4886
+Wilms tumor	4636
+acute promyelocytic leukemia	3734
+cataract	3205
+neuroendocrine carcinoma	2623
+chromophobe renal cell carcinoma	2576
+temporal lobe epilepsy	2103
+age related macular degeneration 7	1701
+colorectal neoplasm	1543
+basal laminar drusen	1239

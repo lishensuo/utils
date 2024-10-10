@@ -1,0 +1,3 @@
+suspension_type	count
+cell	33927794
+nucleus	19866934

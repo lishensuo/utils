@@ -1,0 +1,27 @@
+self_reported_ethnicity	count
+unknown	26090313
+European	21859821
+Asian	1406771
+African American	692304
+Han Chinese	598266
+British	434016
+African	431882
+Korean	366741
+Hispanic or Latin American	340239
+African American or Afro-Caribbean	308907
+Japanese	286809
+multiethnic	245543
+Singaporean Chinese	124371
+Indian	105939
+Malaysian	101610
+admixed ancestry	77330
+South Asian	75881
+American	66748
+East Asian	51198
+Bangladeshi	38402
+Oceanian	31780
+Irish	28394
+Greater Middle Eastern  (Middle Eastern, North African or Persian)	12958
+Chinese	7454
+Pacific Islander	6696
+Finnish	4355

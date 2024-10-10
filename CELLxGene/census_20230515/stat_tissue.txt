@@ -1,0 +1,228 @@
+tissue	count
+blood	9685538
+lung	4708729
+cerebral cortex	2762613
+middle temporal gyrus	2453710
+breast	2435043
+telencephalon	2182619
+cerebellum	1756804
+liver	1381633
+heart left ventricle	1234399
+cerebral nuclei	1197544
+lung parenchyma	1080100
+thymus	933356
+thalamic complex	817059
+hippocampal formation	790129
+brain	736824
+spleen	717037
+kidney	682436
+respiratory airway	668453
+bone marrow	653647
+midbrain	620066
+heart right ventricle	612914
+gonad	570488
+interventricular septum	562763
+adrenal gland	547539
+pons	505463
+skin of body	459993
+ileum	448241
+lymph node	423304
+small intestine	401531
+cortex of kidney	374633
+omentum	358095
+body of stomach	343207
+hypothalamus	293133
+adnexa of uterus	279979
+nose	271577
+apex of heart	254608
+retina	252527
+fovea centralis	238446
+intestine	221232
+prefrontal cortex	218183
+myelencephalon	209109
+nasal cavity	198868
+colon	198421
+transition zone of prostate	191641
+peripheral region of retina	188645
+ascitic fluid	185382
+gut wall	174738
+yolk sac	169725
+large intestine	160680
+left cardiac atrium	148712
+peritoneum	145909
+left frontal lobe	142895
+caudate lobe of liver	139547
+heart	137624
+forebrain	132056
+thoracic lymph node	125042
+left ovary	123691
+renal medulla	123221
+islet of Langerhans	119583
+uterus	119302
+superior frontal gyrus	112488
+right ovary	110424
+right frontal lobe	109363
+primary motor cortex	109064
+temporal lobe	105048
+primary visual cortex	103518
+macula lutea proper	102332
+parietal cortex	94443
+tonsil	89046
+epithelium of esophagus	87947
+left temporal lobe	87919
+right cardiac atrium	86098
+pancreas	85417
+mesenteric lymph node	84015
+frontal lobe	83790
+fimbria of uterine tube	80507
+transverse colon	78955
+entorhinal cortex	75461
+peripheral zone of prostate	74403
+ileal epithelium	74058
+right colon	73904
+fallopian tube	73896
+spinal cord	72448
+eye	71962
+pleural effusion	70183
+lower esophagus	66785
+isthmus of fallopian tube	66411
+prostate gland	66245
+placenta	65392
+primary somatosensory cortex	64786
+muscle organ	64677
+temporal cortex	63920
+iris	63771
+ampulla of uterine tube	62923
+duodenum	62633
+sigmoid colon	59332
+abdomen	58962
+bladder organ	58214
+alveolus of lung	57747
+right parietal lobe	56830
+cardia of stomach	56213
+colonic epithelium	55849
+jejunal epithelium	54096
+ovary	53751
+parietal lobe	53269
+lamina propria of mucosa of colon	50290
+trachea	49980
+cornea	49908
+ascending colon	48014
+caecum	47328
+right temporal lobe	45482
+lamina propria	45230
+caudal ganglionic eminence	43487
+rectum	43479
+visceral abdominal adipose tissue	42946
+stomach	42900
+parotid gland	42006
+ciliary body	41644
+corneo-scleral junction	41152
+renal papilla	40676
+decidua	40512
+anterior wall of left ventricle	36574
+lingula of left lung	35284
+eye trabecular meshwork	34784
+esophagus muscularis mucosa	34173
+upper lobe of right lung	32099
+upper outer quadrant of breast	31696
+gastrocnemius	30877
+subcutaneous abdominal adipose tissue	29389
+umbilical cord blood	29247
+esophagogastric junction	29105
+diaphragm	28709
+mucosa	26060
+medial ganglionic eminence	25627
+prepuce of penis	24982
+left colon	24809
+exocrine pancreas	23954
+rectus abdominis muscle	23796
+trunk	23646
+right occipital lobe	22796
+mammary gland	22750
+adipose tissue	22114
+duodeno-jejunal junction	21592
+descending colon	20147
+axilla	19792
+subcutaneous adipose tissue	19784
+pleura	19695
+scalp	19408
+posterior part of tongue	18934
+basal zone of heart	18775
+lower lobe of left lung	17854
+venous blood	17625
+inguinal lymph node	17366
+bronchus	17122
+aorta	16768
+hepatic cecum	16615
+cardiac atrium	16558
+bronchopulmonary lymph node	16527
+esophagus	16080
+muscle of pelvic diaphragm	15650
+zone of skin	15457
+saliva	14502
+parietal peritoneum	14401
+dorsolateral prefrontal cortex	14142
+lens of camera-type eye	13900
+testis	13211
+right lung	12880
+thyroid gland	12647
+jejunum	12473
+sublingual gland	12392
+paracolic gutter	12358
+muscle of abdomen	12284
+macula lutea	12172
+mesenteric artery	11243
+submucosal esophageal gland	10966
+vermiform appendix	10864
+anterior part of tongue	10734
+upper lobe of left lung	10113
+abdominal wall	9899
+chorionic villus	9898
+gallbladder	9769
+muscle tissue	9762
+coronary artery	9734
+artery	9652
+left lung	9276
+skin epidermis	9051
+basal ganglion	9000
+occipital lobe	8799
+uterine cervix	8096
+lamina propria of small intestine	8019
+lower lobe of right lung	7981
+endometrium	7626
+urinary bladder	7602
+anterior cingulate cortex	7417
+epithelium of trachea	7228
+cardiac ventricle	6452
+myometrium	6050
+rib	5992
+orbitofrontal cortex	5874
+dermis	5746
+vasculature	5572
+skin of leg	5327
+vault of skull	5129
+skin of chest	4796
+hindgut	4586
+cervical lymph node	4355
+conjunctiva	4168
+pyloric antrum	4028
+skin of abdomen	4014
+epithelium of small intestine	3896
+middle lobe of right lung	3847
+bone spine	3559
+endocrine pancreas	3040
+sclera	2862
+ureter	2390
+pigment epithelium of eye	2348
+hepatic flexure of colon	2273
+skeletal muscle tissue	1660
+caecum epithelium	1654
+renal pelvis	1578
+retinal neural layer	1350
+temporoparietal junction	1343
+adrenal tissue	1276
+lacrimal gland	496
+tongue	372
+left parietal lobe	326
+kidney blood vessel	143

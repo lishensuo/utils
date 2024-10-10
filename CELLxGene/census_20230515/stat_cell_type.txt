@@ -1,0 +1,605 @@
+cell_type	count
+neuron	5187927
+glutamatergic neuron	1889047
+oligodendrocyte	1843917
+CD4-positive, alpha-beta T cell	1510892
+CD8-positive, alpha-beta T cell	1440552
+classical monocyte	1349543
+macrophage	1333574
+fibroblast	1298708
+L2/3-6 intratelencephalic projecting glutamatergic cortical neuron	1229658
+native cell	1224679
+natural killer cell	1176704
+B cell	1065112
+T cell	972291
+astrocyte	892996
+naive thymus-derived CD4-positive, alpha-beta T cell	877638
+monocyte	847343
+malignant cell	797557
+cardiac muscle cell	739411
+alveolar macrophage	692246
+endothelial cell	604731
+central memory CD4-positive, alpha-beta T cell	550319
+mural cell	545511
+GABAergic neuron	527259
+progenitor cell	483035
+fallopian tube secretory epithelial cell	463461
+type II pneumocyte	452428
+epithelial cell	452099
+CD14-positive monocyte	423896
+oligodendrocyte precursor cell	423299
+cortical cell of adrenal gland	410019
+luminal epithelial cell of mammary gland	388279
+erythrocyte	385968
+Purkinje cell	370751
+microglial cell	363182
+fibroblast of mammary gland	356063
+stromal cell	346653
+fibroblast of cardiac tissue	337563
+naive B cell	334489
+CD16-positive, CD56-dim natural killer cell, human	325718
+capillary endothelial cell	324805
+plasma cell	322993
+naive thymus-derived CD8-positive, alpha-beta T cell	312729
+effector memory CD8-positive, alpha-beta T cell	300508
+double-positive, alpha-beta thymocyte	296386
+blood vessel endothelial cell	293869
+pericyte	293283
+retinal rod cell	276144
+central nervous system macrophage	273311
+enterocyte	268815
+CD14-positive, CD16-negative classical monocyte	261782
+basal cell	261568
+mature alpha-beta T cell	260726
+mesenchymal cell	259990
+CD8-positive, alpha-beta memory T cell	252767
+regular ventricular cardiac myocyte	250578
+memory B cell	244076
+regulatory T cell	238096
+epithelial cell of proximal tubule	233176
+non-classical monocyte	219221
+respiratory basal cell	201579
+myeloid cell	197491
+double negative thymocyte	190788
+vip GABAergic cortical interneuron	189656
+inhibitory interneuron	184813
+secretory cell	180198
+vein endothelial cell	176008
+dendritic cell	174673
+CD4-positive helper T cell	169938
+gamma-delta T cell	165408
+pvalb GABAergic cortical interneuron	163758
+mature T cell	156203
+ciliated columnar cell of tracheobronchial tree	148299
+kidney loop of Henle thick ascending limb epithelial cell	145610
+amacrine cell	144952
+epithelial cell of lower respiratory tract	142285
+mast cell	141293
+basal cell of prostate epithelium	135120
+CD4-positive, alpha-beta memory T cell	134273
+CD8-positive, alpha-beta cytotoxic T cell	125903
+astrocyte of the cerebral cortex	124494
+vascular associated smooth muscle cell	123853
+endothelial cell of vascular tree	121776
+smooth muscle cell	118623
+neutrophil	116602
+elicited macrophage	116551
+lamp5 GABAergic cortical interneuron	116090
+effector memory CD4-positive, alpha-beta T cell	116004
+CD1c-positive myeloid dendritic cell	114899
+club cell	114370
+endothelial cell of lymphatic vessel	114175
+granule cell	113617
+myofibroblast cell	113443
+granulosa cell	112918
+glial cell	110233
+nasal mucosa goblet cell	108192
+sst GABAergic cortical interneuron	108028
+effector CD8-positive, alpha-beta T cell	99220
+foveolar cell of stomach	94899
+conventional dendritic cell	93411
+stem cell	92561
+mature NK T cell	84700
+mesodermal cell	83941
+multi-ciliated epithelial cell	80031
+Mueller cell	79350
+neuron associated cell (sensu Vertebrata)	79325
+endothelial cell of artery	77582
+mucosal invariant T cell	77154
+megakaryocyte	76631
+epithelial cell of lung	76407
+type I pneumocyte	75469
+stellate neuron	75294
+leukocyte	74855
+goblet cell	74770
+Sertoli cell	73268
+retinal bipolar neuron	72958
+thymocyte	72896
+hepatoblast	72848
+lymphocyte	71940
+cerebral cortex GABAergic interneuron	71854
+plasmacytoid dendritic cell	70894
+intestinal epithelial cell	70542
+CD14-low, CD16-positive monocyte	70039
+tracheal goblet cell	69875
+platelet	67363
+mesenchymal stem cell	67006
+fibroblast of lung	66570
+neoplastic cell	66416
+cardiac muscle myoblast	66335
+hepatocyte	66264
+myoepithelial cell of mammary gland	65962
+neuronal brush cell	65674
+erythroblast	64475
+T follicular helper cell	64385
+absorptive cell	63161
+transit amplifying cell	62459
+CD16-negative, CD56-bright natural killer cell, human	59896
+IgA plasma cell	59581
+stratified epithelial cell	56967
+epithelial cell of esophagus	56720
+ON-bipolar cell	56680
+mesangial cell	55774
+kidney collecting duct principal cell	55421
+CD4-positive, alpha-beta cytotoxic T cell	54059
+blood cell	53817
+B-2 B cell	53076
+plasmablast	52188
+interstitial cell of ovary	49910
+periportal region hepatocyte	49591
+alpha-beta T cell	48664
+forebrain radial glial cell	48079
+regular atrial cardiac myocyte	47087
+OFF-bipolar cell	46934
+retinal ganglion cell	45828
+mesothelial cell	45657
+innate lymphoid cell	44780
+ciliated cell	43656
+stromal cell of ovary	43510
+alveolar type 1 fibroblast cell	43510
+enterocyte of colon	43157
+transitional stage B cell	43153
+cardiac endothelial cell	42334
+enteric smooth muscle cell	41600
+promonocyte	40676
+sncg GABAergic cortical interneuron	40362
+activated CD8-positive, alpha-beta T cell	39428
+alveolar type 2 fibroblast cell	38250
+kidney distal convoluted tubule epithelial cell	38183
+keratinocyte	37972
+near-projecting glutamatergic cortical neuron	37134
+effector memory CD8-positive, alpha-beta T cell, terminally differentiated	37111
+kidney collecting duct intercalated cell	36999
+central memory CD8-positive, alpha-beta T cell	36925
+hematopoietic cell	36924
+hematopoietic stem cell	35503
+type B pancreatic cell	35373
+pro-B cell	35194
+mammary gland epithelial cell	35147
+pancreatic A cell	34813
+melanocyte	34767
+pancreatic acinar cell	34284
+macroglial cell	34090
+memory T cell	33169
+corticothalamic-projecting glutamatergic cortical neuron	32836
+basal cell of epithelium of trachea	32681
+large pre-B-II cell	32496
+kidney interstitial fibroblast	31803
+retinal cone cell	31633
+corneal epithelial cell	31540
+megakaryocyte-erythroid progenitor cell	30983
+supporting cell	30009
+L6b glutamatergic cortical neuron	29572
+immature innate lymphoid cell	28875
+pulmonary artery endothelial cell	28798
+basal cell of epidermis	28664
+kidney connecting tubule epithelial cell	28586
+epithelial cell of alveolus of lung	28528
+Kupffer cell	28412
+luminal cell of prostate epithelium	28036
+group 3 innate lymphoid cell	27775
+hematopoietic multipotent progenitor cell	27408
+tracheobronchial smooth muscle cell	27054
+pigmented epithelial cell	27000
+mucous neck cell	26945
+activated CD4-positive, alpha-beta T cell	26855
+prickle cell	26321
+centrilobular region hepatocyte	26268
+retina horizontal cell	26213
+chromaffin cell	26199
+CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	25731
+small pre-B-II cell	25711
+fat cell	25628
+mature astrocyte	25411
+CD8-positive, alpha-beta memory T cell, CD45RO-positive	25348
+Bergmann glial cell	25227
+neural progenitor cell	25195
+alternatively activated macrophage	25119
+erythroid progenitor cell	24335
+epithelial cell of urethra	23634
+epithelial cell of nephron	23259
+midzonal region hepatocyte	23168
+precursor B cell	23004
+choroid plexus epithelial cell	23002
+pancreatic ductal cell	22863
+intestine goblet cell	22676
+inflammatory macrophage	22595
+kidney epithelial cell	22368
+class switched memory B cell	22083
+CD4-positive, alpha-beta thymocyte	22022
+kidney loop of Henle thin descending limb epithelial cell	21687
+bronchus fibroblast of lung	21545
+ciliary muscle cell	21468
+fraction A pre-pro B cell	21060
+cell of skeletal muscle	20958
+acinar cell	20569
+tonsil germinal center B cell	20505
+acinar cell of salivary gland	20294
+late pro-B cell	19924
+chandelier pvalb GABAergic cortical interneuron	19786
+transit amplifying cell of colon	19773
+effector CD4-positive, alpha-beta T cell	19697
+skeletal muscle fiber	19491
+mature microglial cell	19467
+CD4-positive, alpha-beta memory T cell, CD45RO-positive	19457
+syncytiotrophoblast cell	19453
+immature B cell	19304
+granulocyte monocyte progenitor cell	19119
+skeletal muscle satellite cell	19117
+follicular B cell	19039
+cortical thymic epithelial cell	18812
+lung macrophage	18665
+T-helper 22 cell	18379
+neural cell	17830
+abnormal cell	17828
+exhausted T cell	17638
+ependymal cell	17587
+cardiac neuron	17585
+glandular epithelial cell	17256
+ciliated epithelial cell	17148
+NKp46-positive innate lymphoid cell, human	16978
+B-1 B cell	16956
+caudal ganglionic eminence derived GABAergic cortical interneuron	16926
+naive T cell	16648
+pulmonary interstitial fibroblast	16633
+medullary thymic epithelial cell	16574
+colon epithelial cell	16487
+T-helper 17 cell	16465
+type I NK T cell	16387
+ovarian surface epithelial cell	16207
+pigmented ciliary epithelial cell	16178
+mature gamma-delta T cell	16149
+fibro/adipogenic progenitor cell	16021
+granulocyte	15780
+germ cell	15525
+kidney loop of Henle thin ascending limb epithelial cell	15436
+photoreceptor cell	15407
+unswitched memory B cell	15364
+CD14-positive, CD16-positive monocyte	15277
+Schwann cell	14920
+lung pericyte	14712
+erythroid lineage cell	14474
+conjunctival epithelial cell	14471
+prostate gland microvascular endothelial cell	14230
+lung ciliated cell	13978
+enteroendocrine cell	13564
+CD38-negative naive B cell	13021
+decidual cell	12959
+decidual natural killer cell, human	12704
+promyelocyte	12682
+IgG plasma cell	12449
+mature B cell	12415
+myeloid leukocyte	12253
+renal interstitial pericyte	12188
+pro-T cell	12182
+animal cell	12094
+myelocyte	11880
+endocardial cell	11688
+lymphoid lineage restricted progenitor cell	11685
+taste receptor cell	11520
+common myeloid progenitor	11471
+endothelial cell of pericentral hepatic sinusoid	11359
+early lymphoid progenitor	10719
+respiratory hillock cell	10170
+professional antigen presenting cell	10159
+lung secretory cell	10157
+kidney interstitial cell	10096
+squamous epithelial cell	10044
+epicardial adipocyte	9956
+primitive red blood cell	9949
+natural T-regulatory cell	9762
+peptic cell	9718
+chondrocyte	9682
+skeletal muscle satellite stem cell	9662
+endocrine cell	9522
+placental villous trophoblast	9479
+cord blood hematopoietic stem cell	9056
+kidney loop of Henle epithelial cell	8870
+gut endothelial cell	8799
+smooth muscle cell of prostate	8702
+hepatic stellate cell	8477
+corneal endothelial cell	8394
+bladder urothelial cell	8302
+basal epithelial cell of tracheobronchial tree	8145
+vascular leptomeningeal cell	7874
+podocyte	7814
+uterine smooth muscle cell	7746
+intermediate monocyte	7720
+primordial germ cell	7712
+fibroblast of connective tissue of nonglandular part of prostate	7654
+CD8-positive, alpha-beta thymocyte	7624
+endothelial cell of uterus	7577
+enterocyte of epithelium of large intestine	7544
+thyroid follicular cell	7302
+basal epithelial cell of prostatic duct	7295
+radial glial cell	7212
+enterocyte of epithelium of small intestine	7040
+skin fibroblast	6992
+retinal pigment epithelial cell	6608
+early promyelocyte	6528
+activated CD4-positive, alpha-beta T cell, human	6340
+non-pigmented ciliary epithelial cell	6327
+anterior lens cell	6160
+parietal epithelial cell	6107
+glycinergic neuron	6065
+plasmacytoid dendritic cell, human	6046
+skeletal muscle fibroblast	5913
+renal intercalated cell	5875
+intestinal crypt stem cell of colon	5787
+Leydig cell	5666
+intraepithelial lymphocyte	5663
+somatic cell	5615
+epithelial cell of exocrine pancreas	5568
+extravillous trophoblast	5526
+brush cell	5484
+pneumocyte	5440
+lens epithelial cell	5276
+rod bipolar cell	5207
+double negative T regulatory cell	5147
+paneth cell	5082
+contractile cell	5078
+osteoclast	4933
+ionocyte	4920
+fibroblast of breast	4894
+oogonial cell	4890
+duct epithelial cell	4820
+sympathetic neuron	4744
+L5 extratelencephalic projecting glutamatergic cortical neuron	4722
+renal principal cell	4698
+epithelial cell of prostate	4587
+hematopoietic precursor cell	4543
+renal alpha-intercalated cell	4358
+IgG-negative class switched memory B cell	4345
+dendritic cell, human	4331
+pancreatic D cell	4317
+myeloid dendritic cell	4285
+respiratory epithelial cell	4269
+IgG plasmablast	4242
+type G enteroendocrine cell	4239
+cerebral cortex endothelial cell	4236
+tracheobronchial serous cell	4216
+neuroendocrine cell	4114
+theca cell	4079
+serous secreting cell	3976
+cholangiocyte	3968
+endothelial cell of hepatic sinusoid	3957
+type EC enteroendocrine cell	3945
+mucus secreting cell	3943
+interstitial cell of Cajal	3934
+germinal center B cell	3929
+bronchial goblet cell	3927
+IgM plasma cell	3917
+osteoblast	3842
+kidney cell	3836
+centroblast	3663
+DN3 thymocyte	3576
+IgA plasmablast	3562
+T-helper 1 cell	3538
+P/D1 enteroendocrine cell	3532
+peripheral nervous system neuron	3456
+hair follicular keratinocyte	3396
+ventricular cardiac muscle cell	3214
+colon goblet cell	3156
+neural crest cell	3141
+fibroblast of connective tissue of glandular part of prostate	3106
+fibroblast of connective tissue of prostate	3027
+CD8-positive, alpha-beta cytokine secreting effector T cell	2986
+migratory enteric neural crest cell	2969
+pancreatic stellate cell	2949
+smooth muscle myoblast	2938
+mononuclear phagocyte	2872
+gut absorptive cell	2844
+naive regulatory T cell	2817
+motor neuron	2756
+eurydendroid cell	2602
+paneth cell of colon	2518
+neuronal receptor cell	2502
+pulmonary ionocyte	2475
+intestinal crypt stem cell	2374
+common dendritic progenitor	2370
+neuroblast (sensu Vertebrata)	2355
+reticular cell	2307
+fast muscle cell	2285
+CD34-positive, CD38-negative hematopoietic stem cell	2238
+enteric neuron	2237
+smooth muscle cell of sphincter of pupil	2221
+group 2 innate lymphoid cell	2218
+glandular cell of esophagus	2216
+tracheobronchial goblet cell	2158
+subcutaneous fat cell	2152
+lung goblet cell	2149
+common lymphoid progenitor	2105
+late promyelocyte	2079
+inhibitory motor neuron	2056
+IgG memory B cell	2048
+basophil	1987
+DN1 thymic pro-T cell	1970
+inflammatory cell	1884
+myeloid lineage restricted progenitor cell	1878
+glomerular endothelial cell	1866
+transit amplifying cell of small intestine	1863
+muscle cell	1844
+eye photoreceptor cell	1782
+immature neutrophil	1745
+eukaryotic cell	1739
+neuron associated cell	1728
+intestinal crypt stem cell of small intestine	1723
+ganglion interneuron	1715
+secondary lens fiber	1677
+adventitial cell	1630
+proerythroblast	1627
+CD8-alpha alpha positive, gamma-delta intraepithelial T cell	1620
+mesothelial cell of epicardium	1595
+intestinal tuft cell	1568
+intestinal crypt stem cell of large intestine	1565
+early T lineage precursor	1538
+respiratory goblet cell	1524
+bipolar neuron	1499
+renal beta-intercalated cell	1425
+CD141-positive myeloid dendritic cell	1415
+activated CD8-positive, alpha-beta T cell, human	1410
+vasa recta ascending limb cell	1397
+fetal cardiomyocyte	1391
+trophoblast giant cell	1390
+endothelial cell of periportal hepatic sinusoid	1385
+paneth cell of epithelium of small intestine	1377
+Hofbauer cell	1372
+parietal cell	1283
+type L enteroendocrine cell	1245
+intestinal enteroendocrine cell	1233
+memory regulatory T cell	1212
+bronchial smooth muscle cell	1201
+centrocyte	1197
+smooth muscle cell of large intestine	1197
+keratocyte	1190
+stem cell of epidermis	1187
+lung neuroendocrine cell	1161
+M cell of gut	1142
+Merkel cell	1140
+B-1b B cell	1110
+lens fiber cell	1101
+pre-B-I cell	1084
+CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	1063
+primary sensory neuron	1030
+retinal blood vessel endothelial cell	1017
+CD4-positive, CD25-positive, alpha-beta regulatory T cell	1010
+kidney capillary endothelial cell	1008
+small intestine goblet cell	988
+slow muscle cell	972
+lung microvascular endothelial cell	970
+megakaryocyte progenitor cell	966
+epithelial cell of thymus	942
+brush cell of trachebronchial tree	916
+vasa recta descending limb cell	912
+papillary tips cell	857
+peritubular capillary endothelial cell	851
+T follicular regulatory cell	831
+enterocyte of epithelium proper of ileum	809
+Langerhans cell	784
+ILC1, human	776
+erythroid progenitor cell, mammalian	773
+large intestine goblet cell	770
+PP cell	761
+visceromotor neuron	756
+epithelial cell of stratum germinativum of esophagus	754
+dermis microvascular lymphatic vessel endothelial cell	742
+NKp44-negative group 3 innate lymphoid cell, human	739
+preosteoblast	736
+oocyte	723
+pre-conventional dendritic cell	698
+bronchial epithelial cell	693
+prostate stromal cell	691
+epithelial cell of glomerular capsule	651
+stromal cell of lamina propria of small intestine	640
+male germ cell	621
+NKp44-positive group 3 innate lymphoid cell, human	611
+basophil mast progenitor cell	611
+reticulocyte	605
+endothelial cell of sinusoid	592
+precursor cell	567
+interneuron	560
+B-1a B cell	558
+CD34-positive, CD56-positive, CD117-positive common innate lymphoid precursor, human	555
+kidney collecting duct cell	545
+tuft cell of colon	524
+adipocyte of epicardial fat of left ventricle	523
+connective tissue cell	498
+nephron tubule epithelial cell	495
+tendon cell	468
+epidermal cell	446
+eosinophil	432
+Cajal-Retzius cell	411
+mesenchymal lymphangioblast	410
+myometrial cell	398
+follicular dendritic cell	398
+myoepithelial cell	392
+epithelial cell of uterus	388
+cytotoxic T cell	385
+Schwann cell precursor	384
+endothelial tip cell	373
+chorionic trophoblast cell	366
+immature alpha-beta T cell	341
+epithelial cell of small intestine	339
+progenitor cell of endocrine pancreas	336
+fibrocyte	335
+phagocyte	334
+cardiac mesenchymal cell	317
+enucleated reticulocyte	304
+epithelial cell of sweat gland	301
+colon macrophage	268
+melanocyte of skin	266
+pancreatic PP cell	263
+smooth muscle cell of small intestine	255
+muscle precursor cell	254
+mononuclear cell	242
+glomerular capillary endothelial cell	235
+sebaceous gland cell	233
+mesothelial fibroblast	232
+ileal goblet cell	230
+type I enteroendocrine cell	227
+granular cell of epidermis	212
+enucleate erythrocyte	202
+pancreatic epsilon cell	201
+enteroendocrine cell of colon	199
+neutrophil progenitor cell	189
+kidney resident macrophage	174
+myeloid dendritic cell, human	171
+group 3 innate lymphoid cell, human	170
+type II NK T cell	147
+type D enteroendocrine cell	143
+urothelial cell	135
+peripheral blood mononuclear cell	131
+columnar/cuboidal epithelial cell	129
+tongue muscle cell	120
+immature natural killer cell	114
+surface ectodermal cell	108
+epithelial cell of lacrimal sac	104
+group 2 innate lymphoid cell, human	93
+enteroendocrine cell of small intestine	90
+salivary gland cell	90
+duodenum glandular cell	88
+intrahepatic cholangiocyte	84
+GIP cell	83
+serous cell of epithelium of trachea	82
+non-terminally differentiated cell	82
+primary cultured cell	80
+bone marrow cell	72
+liver dendritic cell	68
+immature Schwann cell	66
+DN4 thymocyte	64
+brush cell of trachea	61
+T-helper 2 cell	55
+smooth muscle fiber of ileum	54
+endosteal cell	54
+vascular lymphangioblast	51
+epidermal Langerhans cell	48
+type N enteroendocrine cell	44
+leptomeningeal cell	40
+pre-natural killer cell	39
+embryonic stem cell	34
+mature conventional dendritic cell	34
+macrophage dendritic cell progenitor	31
+serous cell of epithelium of bronchus	30
+mesothelial cell of pleura	29
+microfold cell of epithelium of small intestine	19
+sperm	11

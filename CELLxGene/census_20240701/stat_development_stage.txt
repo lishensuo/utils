@@ -1,0 +1,177 @@
+development_stage	count
+50-year-old human stage	5057258
+29-year-old human stage	4157552
+42-year-old human stage	4086536
+unknown	3383848
+80 year-old and over human stage	3105866
+15th week post-fertilization human stage	2812757
+mature stage	2300819
+sixth decade human stage	2206184
+seventh decade human stage	1919816
+17th week post-fertilization human stage	1541740
+human adult stage	1459986
+12th week post-fertilization human stage	1275014
+fifth decade human stage	1243876
+16th week post-fertilization human stage	1158257
+59-year-old human stage	1053541
+60-year-old human stage	861960
+eighth decade human stage	830446
+73-year-old human stage	827352
+20-year-old human stage	769887
+fourth decade human stage	768091
+69-year-old human stage	734171
+66-year-old human stage	718037
+13th week post-fertilization human stage	715696
+61-year-old human stage	699226
+64-year-old human stage	696520
+82-year-old human stage	687682
+68-year-old human stage	540468
+63-year-old human stage	534976
+65-year-old human stage	528955
+55-year-old human stage	520226
+67-year-old human stage	517462
+46-year-old human stage	513417
+58-year-old human stage	502395
+78-year-old human stage	492413
+70-year-old human stage	490547
+41-year-old human stage	490207
+52-year-old human stage	485109
+35-year-old human stage	480670
+38-year-old human stage	456713
+33-year-old human stage	438188
+53-year-old human stage	436355
+57-year-old human stage	436335
+62-year-old human stage	432345
+75-year-old human stage	429836
+74-year-old human stage	427230
+37-year-old human stage	418372
+86-year-old human stage	415533
+27-year-old human stage	414505
+83-year-old human stage	411947
+80-year-old human stage	408636
+72-year-old human stage	408032
+43-year-old human stage	407402
+9th week post-fertilization human stage	400893
+30-year-old human stage	390454
+11th week post-fertilization human stage	378340
+36-year-old human stage	375628
+14th week post-fertilization human stage	375416
+49-year-old human stage	372324
+48-year-old human stage	358502
+31-year-old human stage	355495
+88-year-old human stage	345872
+56-year-old human stage	343952
+39-year-old human stage	340692
+79-year-old human stage	335180
+45-year-old human stage	331807
+84-year-old human stage	325278
+71-year-old human stage	315803
+47-year-old human stage	307219
+54-year-old human stage	306549
+25-year-old human stage	304614
+81-year-old human stage	304323
+51-year-old human stage	297046
+77-year-old human stage	295438
+21-year-old human stage	294913
+34-year-old human stage	289849
+24-year-old human stage	285558
+5-year-old human stage	282698
+fifth LMP month human stage	279862
+human late adulthood stage	263800
+40-year-old human stage	260716
+third decade human stage	244111
+10th week post-fertilization human stage	243551
+Carnegie stage 20	242525
+44-year-old human stage	238324
+23-year-old human stage	225666
+7-year-old human stage	222718
+Carnegie stage 23	222542
+newborn human stage	221942
+76-year-old human stage	217329
+18th week post-fertilization human stage	215049
+85-year-old human stage	205538
+3-year-old human stage	200325
+89-year-old human stage	197803
+28-year-old human stage	196213
+22nd week post-fertilization human stage	194341
+adolescent stage	190555
+26-year-old human stage	185506
+human early adulthood stage	181372
+4-year-old human stage	169488
+32-year-old human stage	168411
+Carnegie stage 22	165204
+87-year-old human stage	164097
+19th week post-fertilization human stage	144401
+infant stage	140714
+90-year-old human stage	134241
+Carnegie stage 19	132727
+20th week post-fertilization human stage	129689
+19-year-old human stage	129578
+22-year-old human stage	114705
+young adult stage	106037
+6-year-old human stage	104005
+15-year-old human stage	97433
+human middle aged stage	90601
+human aged stage	80163
+2-5 year-old child stage	76610
+2-year-old human stage	74426
+25-44 year-old human stage	74142
+1-year-old human stage	71783
+25th week post-fertilization human stage	69754
+8-year-old human stage	68398
+7-month-old human stage	66873
+12-year-old human stage	65399
+92-year-old human stage	65265
+1-month-old human stage	63289
+Carnegie stage 18	61000
+91-year-old human stage	59070
+Carnegie stage 14	58158
+Carnegie stage 13	57247
+21st week post-fertilization human stage	56389
+6-12 year-old child stage	55074
+6-month-old human stage	52973
+3-month-old human stage	49689
+23rd week post-fertilization human stage	49459
+eighth LMP month human stage	48889
+organogenesis stage	46836
+10-month-old human stage	44816
+17-year-old human stage	44575
+child stage	44217
+13-year-old human stage	43568
+Carnegie stage 17	41296
+2-month-old human stage	40206
+9-year-old human stage	38239
+ninth decade human stage	37838
+ninth LMP month human stage	34292
+14-year-old human stage	34107
+fourth LMP month human stage	33296
+seventh LMP month human stage	30112
+26th week post-fertilization human stage	29616
+10-year-old human stage	28898
+5-month-old human stage	28509
+embryonic human stage	27883
+4-month-old human stage	26214
+16-year-old human stage	26059
+sixth LMP month human stage	25845
+65-79 year-old human stage	24468
+18-year-old human stage	20985
+Carnegie stage 12	20393
+31st week post-fertilization human stage	17026
+Carnegie stage 21	16810
+11-year-old human stage	14021
+96-year-old human stage	13926
+9-month-old human stage	13582
+under-1-year-old human stage	12842
+Carnegie stage 09	11104
+Carnegie stage 11	10507
+11-month-old human stage	10082
+Carnegie stage 16	9354
+14-month-old human stage	8581
+8-month-old human stage	7260
+immature stage	4636
+12-month-old human stage	4432
+93-year-old human stage	2332
+19-month-old human stage	1570
+97-year-old human stage	976
+95-year-old human stage	930
+94-year-old human stage	867

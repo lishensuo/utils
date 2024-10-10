@@ -1,0 +1,4 @@
+sex_ontology_term_id	count
+PATO:0000384	28197731
+PATO:0000383	22513226
+unknown	3083771

@@ -1,0 +1,3 @@
+is_primary_data	count
+True	44265932
+False	30056578

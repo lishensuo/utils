@@ -1,0 +1,110 @@
+disease	count
+normal	55973866
+COVID-19	4786711
+dementia	2104042
+glioblastoma	1477830
+lung adenocarcinoma	1422977
+dilated cardiomyopathy	934441
+systemic lupus erythematosus	777258
+Crohn disease	577191
+chronic kidney disease	477200
+squamous cell lung carcinoma	303260
+pulmonary fibrosis	268932
+acute kidney failure	256320
+small cell lung carcinoma	246800
+non-small cell lung carcinoma	241592
+Alzheimer disease	224670
+arrhythmogenic right ventricular cardiomyopathy	203291
+breast carcinoma	195773
+clear cell renal carcinoma	187792
+chronic obstructive pulmonary disease	179974
+nonpapillary renal cell carcinoma	177503
+myocardial infarction	171909
+B-cell acute lymphoblastic leukemia	164901
+amyotrophic lateral sclerosis	157968
+Parkinson disease	135344
+epilepsy	129905
+follicular lymphoma	122702
+benign prostatic hyperplasia	120984
+gastric cancer	116329
+frontotemporal dementia	113957
+primary sclerosing cholangitis	104667
+post-COVID-19 disorder	97224
+respiratory system disorder	94987
+digestive system disorder	89849
+gastric intestinal metaplasia	82152
+gastritis	79882
+amyotrophic lateral sclerosis 26 with or without frontotemporal dementia	73797
+interstitial lung disease	68456
+Lewy body dementia	67466
+common variable immunodeficiency	64759
+B-cell non-Hodgkin lymphoma	59746
+basal cell carcinoma	58637
+blastoma	57445
+opiate dependence	54399
+plasma cell myeloma	48052
+premalignant hematological system disease	47354
+luminal B breast carcinoma	46128
+triple-negative breast carcinoma	42420
+primary biliary cholangitis	39994
+periodontitis	38520
+influenza	34549
+pilocytic astrocytoma	34291
+pulmonary emphysema	33011
+Crohn ileitis	32458
+pneumonia	31923
+Barrett esophagus	30715
+chronic rhinitis	29137
+listeriosis	28237
+toxoplasmosis	28098
+Plasmodium malariae malaria	27958
+acute myeloid leukemia	27852
+tubular adenoma	27270
+non-compaction cardiomyopathy	22656
+type 1 diabetes mellitus	22400
+lung large cell carcinoma	21167
+trisomy 18	21066
+luminal A breast carcinoma	20403
+type 2 diabetes mellitus	19262
+hydrosalpinx	17798
+cystic fibrosis	17590
+Down syndrome	16743
+colon sessile serrated adenoma/polyp	14573
+kidney oncocytoma	12610
+lymphangioleiomyomatosis	12374
+adenocarcinoma	11483
+multiple sclerosis	11208
+pleomorphic carcinoma	10765
+hypersensitivity pneumonitis	10379
+aspiration pneumonia	10204
+non-specific interstitial pneumonia	8597
+hyperplastic polyp	8359
+acute myocardial infarction	8033
+tubulovillous adenoma	7216
+gingivitis	6587
+colorectal cancer	6215
+injury	5983
+anencephaly	5499
+congenital heart disease	5046
+pulmonary sarcoidosis	4886
+Wilms tumor	4636
+heart failure	4594
+macular degeneration	3922
+acute promyelocytic leukemia	3734
+respiratory failure	3335
+cataract	3205
+tongue cancer	2992
+neuroendocrine carcinoma	2623
+chromophobe renal cell carcinoma	2576
+long COVID-19	2306
+breast cancer	2188
+malignant pancreatic neoplasm	2148
+temporal lobe epilepsy	2103
+heart disorder	1957
+age related macular degeneration 7	1701
+colorectal neoplasm	1608
+cardiomyopathy	1285
+keloid	1270
+basal laminar drusen	1239
+localized scleroderma	1074
+kidney benign neoplasm	57

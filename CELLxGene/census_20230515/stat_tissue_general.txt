@@ -1,0 +1,62 @@
+tissue_general	count
+brain	16053285
+blood	9732410
+lung	5975910
+heart	3125211
+breast	2466739
+liver	1521180
+kidney	1222687
+eye	1122467
+small intestine	1086539
+endocrine gland	946003
+respiratory system	742783
+spleen	717037
+lymph node	670609
+colon	660976
+bone marrow	653647
+reproductive system	595470
+adrenal gland	548815
+skin of body	504384
+nose	470445
+stomach	446348
+uterus	421053
+omentum	358095
+prostate gland	332289
+ovary	287866
+fallopian tube	283737
+intestine	237847
+pancreas	231994
+esophagus	215951
+large intestine	215023
+musculature	187415
+ascitic fluid	185382
+digestive system	179324
+yolk sac	169725
+peritoneum	145909
+adipose tissue	114233
+placenta	105904
+immune system	89046
+embryo	79012
+exocrine gland	77148
+spinal cord	72448
+pleural fluid	70183
+abdomen	58962
+bladder organ	58214
+lamina propria	45230
+vasculature	43235
+tongue	30040
+esophagogastric junction	29105
+mucosa	26060
+trunk	23646
+axilla	19792
+pleura	19695
+scalp	19408
+skeletal system	14680
+saliva	14502
+parietal peritoneum	14401
+testis	13211
+paracolic gutter	12358
+abdominal wall	9899
+gallbladder	9769
+urinary bladder	7602
+ureter	2390
